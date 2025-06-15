@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://saniamasoodkhanjrw.github.io/rehan-portfolio/sitemap.xml
